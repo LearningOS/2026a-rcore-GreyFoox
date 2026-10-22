@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "courseId": 2073,
+  "repository": "LearningOS/2026a-rcore-GreyFoox",
+  "user": "GreyFoox",
+  "totalScore": 500,
+  "chapters": {
+    "ch3": {
+      "points": "7/7",
+      "score": 100,
+      "commit": "c1f31de1bdf3ff8f58ea81fd64ea1ca6e4c818c3"
+    }
+  },
+  "score": 100,
+  "upload": {
+    "status": "pending",
+    "runId": "39807594056",
+    "runAttempt": "1"
+  }
+}
